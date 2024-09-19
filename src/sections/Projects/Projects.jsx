@@ -12,7 +12,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/mitendra9315/PG-Life"
           h3="PG-Life"
           p="Web Service App"
         />
